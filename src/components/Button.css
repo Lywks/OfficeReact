@@ -1,0 +1,24 @@
+.box-button{
+    width: 40%;
+    margin: 0 0 0 290px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    font-size: 1.0em;
+    width: 49%;
+}
+
+.back{
+    background-color: darkgrey;
+    border: none;
+    
+}
+.next{
+    background-color: rgb(49, 49, 207);
+    color: white;
+    border: none;
+
+    
+}
